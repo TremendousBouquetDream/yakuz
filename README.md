@@ -1,0 +1,2 @@
+# yakuz
+power
